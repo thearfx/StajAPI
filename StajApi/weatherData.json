@@ -1,0 +1,155 @@
+[
+  {
+    "name": "İstanbul",
+    "main": {
+      "temp": 24.68,
+      "feels_like": 24.69,
+      "temp_min": 24.68,
+      "temp_max": 24.68,
+      "humidity": 57
+    },
+    "weather": [
+      {
+        "main": "Clouds",
+        "description": "az bulutlu"
+      }
+    ],
+    "cod": 200
+  },
+  {
+    "name": "Ankara",
+    "main": {
+      "temp": 22.51,
+      "feels_like": 22.23,
+      "temp_min": 22.51,
+      "temp_max": 22.51,
+      "humidity": 54
+    },
+    "weather": [
+      {
+        "main": "Clear",
+        "description": "açık"
+      }
+    ],
+    "cod": 200
+  },
+  {
+    "name": "İzmir",
+    "main": {
+      "temp": 25.61,
+      "feels_like": 25.66,
+      "temp_min": 24.98,
+      "temp_max": 25.97,
+      "humidity": 55
+    },
+    "weather": [
+      {
+        "main": "Clear",
+        "description": "açık"
+      }
+    ],
+    "cod": 200
+  },
+  {
+    "name": "Bursa",
+    "main": {
+      "temp": 22.29,
+      "feels_like": 21.98,
+      "temp_min": 22.29,
+      "temp_max": 22.29,
+      "humidity": 54
+    },
+    "weather": [
+      {
+        "main": "Clear",
+        "description": "açık"
+      }
+    ],
+    "cod": 200
+  },
+  {
+    "name": "Antalya",
+    "main": {
+      "temp": 28.33,
+      "feels_like": 32.6,
+      "temp_min": 28.11,
+      "temp_max": 28.33,
+      "humidity": 78
+    },
+    "weather": [
+      {
+        "main": "Clear",
+        "description": "açık"
+      }
+    ],
+    "cod": 200
+  },
+  {
+    "name": "Adana",
+    "main": {
+      "temp": 30.01,
+      "feels_like": 34.13,
+      "temp_min": 29.29,
+      "temp_max": 30.01,
+      "humidity": 66
+    },
+    "weather": [
+      {
+        "main": "Clouds",
+        "description": "parçalı az bulutlu"
+      }
+    ],
+    "cod": 200
+  },
+  {
+    "name": "Gaziantep",
+    "main": {
+      "temp": 29.96,
+      "feels_like": 29.64,
+      "temp_min": 29.52,
+      "temp_max": 29.96,
+      "humidity": 40
+    },
+    "weather": [
+      {
+        "main": "Clear",
+        "description": "açık"
+      }
+    ],
+    "cod": 200
+  },
+  {
+    "name": "Konya",
+    "main": {
+      "temp": 22.71,
+      "feels_like": 22.29,
+      "temp_min": 22.71,
+      "temp_max": 22.71,
+      "humidity": 48
+    },
+    "weather": [
+      {
+        "main": "Clouds",
+        "description": "parçalı az bulutlu"
+      }
+    ],
+    "cod": 200
+  },
+  {
+    "name": "Eskişehir",
+    "main": {
+      "temp": 20.74,
+      "feels_like": 20.23,
+      "temp_min": 19.93,
+      "temp_max": 20.95,
+      "humidity": 52
+    },
+    "weather": [
+      {
+        "main": "Clear",
+        "description": "açık"
+      }
+    ],
+    "cod": 200
+  }
+]
